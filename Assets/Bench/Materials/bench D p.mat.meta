@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7f43eea7c1756854789166a08cd20556
+labels:
+- Bench
+- Park
+- Prop
+- Wood
+- Vintage
+timeCreated: 1477771127
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 75025
+  packageName: Bench
+  packageVersion: 1.0
+  assetPath: Assets/Bench/Materials/bench D p.mat
+  uploadId: 224896

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3a0c1b5895645e642a94734643bc0b25
+timeCreated: 1477769550
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 75025
+  packageName: Bench
+  packageVersion: 1.0
+  assetPath: Assets/Bench/Materials/bench D.mat
+  uploadId: 224896

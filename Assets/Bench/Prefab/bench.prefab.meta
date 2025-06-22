@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5db3cfd9582ce5943ac05c7b12d6de27
+timeCreated: 1516366643
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 75025
+  packageName: Bench
+  packageVersion: 1.0
+  assetPath: Assets/Bench/Prefab/bench.prefab
+  uploadId: 224896
